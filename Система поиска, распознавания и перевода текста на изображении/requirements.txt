@@ -1,0 +1,7 @@
+easyocr==1.7.2
+numpy==2.2.6
+opencv-contrib-python==4.6.0.66
+PySide6==6.11.1
+torch==2.11.0
+torchvision==0.26.0
+translators==6.0.4

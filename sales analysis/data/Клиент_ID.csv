@@ -1,0 +1,26 @@
+customer_id;name;email;join_date
+1;Иван Петров;ivan.petrov@mail.ru;15.01.2022
+2;Елена Смирнова;elena.smirnova@gmail.com;20.02.2022
+3;Алексей Иванов;alex.ivanov@yandex.ru;10.03.2022
+4;Ольга Кузнецова;olga.kuz@mail.ru;05.04.2022
+5;Дмитрий Соколов;dima.sokolov@gmail.com;12.05.2022
+6;Анна Попова;anna.popova@yandex.ru;18.06.2022
+7;Сергей Васильев;sergey.vas@mail.ru;22.07.2022
+8;Мария Новикова;mariya.nov@gmail.com;30.08.2022
+9;Андрей Федоров;andrey.fed@yandex.ru;14.09.2022
+10;Наталья Морозова;nata.moroz@mail.ru;25.10.2022
+11;Павел Волков;pavel.volk@gmail.com;08.11.2022
+12;Екатерина Белова;katya.bel@yandex.ru;03.12.2022
+13;Артем Лебедев;artem.leb@mail.ru;17.01.2023
+14;Юлия Егорова;julia.egor@gmail.com;19.02.2023
+15;Михаил Козлов;misha.koz@yandex.ru;28.03.2023
+16;Светлана Николаева;svetlana.nik@mail.ru;11.04.2023
+17;Александр Павлов;alex.pavl@gmail.com;09.05.2023
+18;Татьяна Михайлова;tanya.mih@yandex.ru;22.06.2023
+19;Виктор Семенов;viktor.sem@mail.ru;15.07.2023
+20;Ирина Романова;irina.roman@gmail.com;04.08.2023
+21;Николай Орлов;nick.orlov@yandex.ru;30.09.2023
+22;Людмила Алексеева;lyudmila.alex@mail.ru;12.10.2023
+23;Геннадий Макаров;gena.makar@gmail.com;25.11.2023
+24;Валентина Соловьева;valya.sol@yandex.ru;18.12.2023
+25;Константин Виноградов;kostya.vin@mail.ru;05.01.2024

@@ -468,52 +468,6 @@ def detect_text(img, i_dop):
     analysis(img_mas, i_dop)
 
     return img_mas, letters_mass
-
-im_mas = []
-for i in range(1):
-    i = 8
-    im = cv2.imread(f'prov/{i}_.png')
-    im_mas.append(im)
-# im = cv2.imread(f'4.png')
-# im_mas.append(im)
-#
-#
-# class OCR:
-#     _reader = None
-#
-#     @staticmethod
-#     def get_reader():
-#         if OCR._reader is None:
-#             OCR._reader = easyocr.Reader(['en'], gpu=False)
-#         return OCR._reader
-#
-#
-# reader = OCR.get_reader()
-#
-#
-#
-summ = 0
-for i in im_mas:
-    print("Детектор")
-    img, xy =detect_text(i,summ)
-    summ += len(img)
-#     print("-------------------------------------\nОКР")
-#     for j in range(len(img)):
-#         h, w = img[j].shape[:2]
-#
-#         # Говорим EasyOCR: "Весь этот кусок — это один текстовый бокс, читай от края до края!"
-#         # Формат EasyOCR: [x_min, x_max, y_min, y_max]
-#         box_full_image = [0, w, 0, h]
-#
-#         # Используем recognize вместо readtext, чтобы пропустить этап внутренней детекции
-#         res = reader.recognize(
-#             img[j],
-#             horizontal_list=[box_full_image],
-#             free_list=[],
-#             detail=1,
-#             decoder='greedy'
-#         )
-#         print(res)
 #     print("==============================================")
 #     summ += len(img)
 #     # print(len(img))
